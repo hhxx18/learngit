@@ -1,2 +1,2 @@
-Git is a fucking distributed version control system.
+Git is a stupid fucking distributed version control system.
 Git is free software.
